@@ -1,0 +1,22 @@
+cd 
+cd filename
+git init
+git add file.ext
+git commit -m"1st commit"
+git remote add orgin 'link'
+git push -u orgin master
+git status
+git reflog
+
+-
+
+clone - cloning a repo into new directory
+init - create an empty repo or reinitailize an existing one 
+add - add files and contents
+mv - move or rename a file, a directory
+restore - restore working tree
+bisect - use binary search to find the commit tht introduced a bug
+diff - shiw changes between commits ND WORKING TREE
+GREP - print lines matching a pattern
+log - showlog contents
+show - shows various types of objects
