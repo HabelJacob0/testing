@@ -20,3 +20,15 @@ diff - shiw changes between commits ND WORKING TREE
 GREP - print lines matching a pattern
 log - showlog contents
 show - shows various types of objects
+
+push and commit
+cd
+cd filename
+git add --all
+git commit -m ''
+git push
+
+clone 
+mkdir filename
+cd file name
+git clone 'link'
